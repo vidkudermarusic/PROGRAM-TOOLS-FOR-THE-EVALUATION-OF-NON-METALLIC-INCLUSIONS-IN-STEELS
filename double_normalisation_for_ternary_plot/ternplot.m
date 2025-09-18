@@ -1,3 +1,9 @@
+% ORIGINAL AUTHOR: Carl Sandrock (2002-08-27)
+% INTEGRATED BY: Vid Kuder Marušič
+% EMAIL: vidkm30@gmail.com
+% DATE: 2025
+% REPOSITORY: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
+%
 % ========================================================================
 % TERNPLOT - Ternary Phase Diagram Plotting Function
 % ========================================================================
@@ -54,14 +60,9 @@
 %   - ternaxes() function (for axis creation)
 %   - extractpositional() function (for parameter parsing)
 %
-% ORIGINAL AUTHOR: Carl Sandrock (2002-08-27)
 % MODIFICATIONS: 
 %   - 2016-04-05 (SA) Added 'majors' input argument
 %   - 2025 (VKM) Enhanced documentation and integration
-% INTEGRATED BY: Vid Kuder Marušič
-% EMAIL: vidkm30@gmail.com
-% DATE: 2025
-% REPOSITORY: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
 %
 % PACKAGE: Carl Sandrock's ternplot package
 % REPOSITORY: https://github.com/alchemyst/ternplot

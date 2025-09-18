@@ -1,3 +1,11 @@
+% AUTHOR: Vid Kuder Marušič
+% EMAIL: vidkm30@gmail.com
+% DATE: 2025
+% VERSION: 1.0.0
+% LICENSE: MIT License
+% COMPATIBILITY: MATLAB R2018b or later
+% REPOSITORY: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
+%
 % ========================================================================
 % DYNAMIC_TERNARY_ANALYZER - Interactive Ternary Plotting Analyzer
 % ========================================================================
@@ -47,14 +55,6 @@
 %   1. fractions(): A(rel) = A/(A+B+C) - Relative proportions
 %   2. fractionsA(): A(wt%) = A/100 - Percentage-based
 %   3. Both: Overlay comparison of both methods
-%
-% AUTHOR: Vid Kuder Marušič
-% EMAIL: vidkm30@gmail.com
-% DATE: 2025
-% VERSION: 1.0.0
-% LICENSE: MIT License
-% COMPATIBILITY: MATLAB R2018b or later
-% REPOSITORY: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
 %
 % EXAMPLE:
 %   run('DYNAMIC_TERNARY_ANALYZER.m')

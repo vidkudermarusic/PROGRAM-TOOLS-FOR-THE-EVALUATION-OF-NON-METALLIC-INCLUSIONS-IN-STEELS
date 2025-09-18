@@ -1,3 +1,10 @@
+% AUTHOR: Vid Kuder Marušič
+% EMAIL: vidkm30@gmail.com
+% DATE: 2025
+% VERSION: 1.0.0
+% LICENSE: MIT License
+% REPOSITORY: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
+%
 % ========================================================================
 % FRACTIONSA - Ternary Data Normalization (Percentage-based)
 % ========================================================================
@@ -38,13 +45,6 @@
 %
 % DEPENDENCIES:
 %   None (standalone function)
-%
-% AUTHOR: Vid Kuder Marušič
-% EMAIL: vidkm30@gmail.com
-% DATE: 2025
-% VERSION: 1.0.0
-% LICENSE: MIT License
-% REPOSITORY: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
 %
 % SEE ALSO: fractions, ternplotA
 % ======================================================================== 

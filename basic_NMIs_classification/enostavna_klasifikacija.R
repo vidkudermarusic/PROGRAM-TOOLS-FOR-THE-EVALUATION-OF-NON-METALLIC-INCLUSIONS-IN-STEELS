@@ -1,13 +1,13 @@
-# =======================
-# ENOSTAVNA KLASIFIKACIJA VKLJUČKOV
-# =======================
-#
 # AUTHOR: Vid Kuder Marušič
 # EMAIL: vidkm30@gmail.com
 # DATE: 2025
 # VERSION: 1.0.0
 # LICENSE: MIT License
 # REPOSITORY: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
+#
+# =======================
+# ENOSTAVNA KLASIFIKACIJA VKLJUČKOV
+# =======================
 #
 # DESCRIPTION:
 #   Simplified classification script for non-metallic inclusions in steel materials.
