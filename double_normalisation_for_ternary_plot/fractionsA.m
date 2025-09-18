@@ -41,9 +41,10 @@
 %
 % AUTHOR: Vid Kuder Marušič
 % EMAIL: vidkm30@gmail.com
-% REPOSITORY: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
 % DATE: 2025
 % VERSION: 1.0.0
+% LICENSE: MIT License
+% REPOSITORY: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
 %
 % SEE ALSO: fractions, ternplotA
 % ======================================================================== 

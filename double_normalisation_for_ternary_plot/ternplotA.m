@@ -58,8 +58,9 @@
 % MODIFICATIONS: 
 %   - 2016-04-05 (SA) Added 'majors' input argument
 %   - 2025 (VKM) Enhanced documentation and integration
-% CURRENT AUTHOR: Vid Kuder Marušič
+% INTEGRATED BY: Vid Kuder Marušič
 % EMAIL: vidkm30@gmail.com
+% DATE: 2025
 % REPOSITORY: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
 %
 % PACKAGE: Carl Sandrock's ternplot package

@@ -91,12 +91,30 @@
 #       "Element9.(Wt%)"
 #   )
 #
+####TEST
+#
+#create_joint_ternary_diagram(
+#  xlsx_file = "23458.xlsx",
+#  output_dir = NULL,
+# working_dir = "C: ...",
+#  "S.(Wt%)",
+#  "Mn.(Wt%)",
+#  "O.(Wt%)",
+#  "Mn.(Wt%)",
+#  "S.(Wt%)",
+#  "Ca.(Wt%)+Si.(Wt%)",
+#  "N.(Wt%)"
+#)
+#
+#"Si.(Wt%)+O.(Wt%)",                              
+#
 # AUTHOR: Vid Kuder Marušič
 # EMAIL: vidkm30@gmail.com
-# REPOSITORY: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
 # DATE: 2025
 # VERSION: 1.0.0
+# LICENSE: MIT License
 # COMPATIBILITY: R 3.6.0 or later
+# REPOSITORY: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
 #
 # TROUBLESHOOTING:
 #   - Ensure exactly 7 element strings are provided
@@ -305,19 +323,3 @@ create_joint_ternary_diagram <- function(
     return(NULL)
   }
 }
-###TEST
-
-create_joint_ternary_diagram(
-  xlsx_file = "23458.xlsx",
-  output_dir = NULL,
-  working_dir = "C: ...",
-  "S.(Wt%)",
-  "Mn.(Wt%)",
-  "O.(Wt%)",
-  "Mn.(Wt%)",
-  "S.(Wt%)",
-  "Ca.(Wt%)+Si.(Wt%)",
-  "N.(Wt%)"
-)
-
-#"Si.(Wt%)+O.(Wt%)",

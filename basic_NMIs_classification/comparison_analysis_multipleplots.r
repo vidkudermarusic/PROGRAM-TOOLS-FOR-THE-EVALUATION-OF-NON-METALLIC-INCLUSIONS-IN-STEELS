@@ -66,10 +66,11 @@
 #
 # AUTHOR: Vid Kuder Marušič
 # EMAIL: vidkm30@gmail.com
-# REPOSITORY: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
 # DATE: 2025
 # VERSION: 1.0.0
+# LICENSE: MIT License
 # COMPATIBILITY: R 3.6.0 or later
+# REPOSITORY: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
 #
 # EXAMPLE:
 #   # Place your Excel files in the working directory
