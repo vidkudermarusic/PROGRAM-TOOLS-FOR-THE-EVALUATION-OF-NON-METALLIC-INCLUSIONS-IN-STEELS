@@ -40,11 +40,6 @@ The test data follows the standard format expected by all toolkit functions:
 - **Aspect Ratio**: `Aspect Ratio` - Length to width ratio
 - **Circularity**: `Circularity` - Shape circularity measure
 
-#### Additional Parameters
-- **Convex Area**: `Convex Area (sq. µm)` - Convex hull area
-- **Solidity**: `Solidity` - Area to convex area ratio
-- **Extent**: `Extent` - Area to bounding box ratio
-
 ## Usage Examples
 
 ### Testing Basic Classification
