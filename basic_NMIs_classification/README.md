@@ -16,7 +16,6 @@ Poenostavljena verzija klasifikacijske skripte za analizo vključkov v materiali
 - **Spherical**: Kroglasti vključki (Krožnost ≥ 0.90, EL ≤ 1.2)
 - **Globular**: Kroglast-equant vključki (0.80 ≤ Krožnost < 0.90, EL ≤ 1.5)
 - **Elongated**: Podolgovati vključki (EL ≥ 3, Length ≥ 10 µm)
-- **Stringer**: Trakasti vključki (EL ≥ 3, Length ≥ 10 µm)
 - **Plate-like**: Ploščati vključki (EL ≥ 3, Extent ≥ 0.7, minFeret ≤ 0.25·maxFeret)
 - **Angular**: Kotasti vključki (0.65 ≤ Krožnost ≤ 0.85, Solidity ≥ 0.95)
 - **Irregular**: Nepravilni vključki (Krožnost < 0.7) - catch-all kategorija
@@ -63,22 +62,6 @@ Skripta ustvari Excel datoteko z naslednjimi listi:
 - **Kvalitetni_Kazalci**: Odstotki uspešnosti klasifikacije
 - **Top_Klasifikacije**: Najpogostejše klasifikacije
 - **Morfologija_Po_Kemiji**: Kombinacija morfologije in kemije
-
-## Prednosti enostavne verzije
-
-✅ **Hitrejša obdelava** - Manj kompleksnih izračunov  
-✅ **Lažje razumevanje** - Jasna in preprosta pravila  
-✅ **Manj napak** - Enostavnejša logika  
-✅ **Hitro testiranje** - Idealen za prve teste  
-✅ **Dobri rezultati** - Za večino standardnih primerov  
-
-## Razlike od kompleksne verzije
-
-- **Brez stehiometrične analize** - Uporablja samo utežne deleže
-- **Manj klasifikacij** - Osnovni tipi vključkov
-- **Enostavnejša morfologija** - 4 osnovne kategorije
-- **Manj povzetkov** - Osnovni statistični kazalci
-- **Hitrejša izvedba** - Manj izračunov
 
 ## Priporočila za uporabo
 
