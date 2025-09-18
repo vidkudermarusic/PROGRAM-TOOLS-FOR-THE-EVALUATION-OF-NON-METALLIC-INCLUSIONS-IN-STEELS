@@ -1,0 +1,108 @@
+# R specific files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj
+*.Rproj
+.Rprofile
+.Renviron
+
+# R package files
+*.tar.gz
+*.Rcheck/
+.Rbuildignore
+
+# MATLAB specific files
+*.asv
+*.m~
+*.mat
+*.fig
+*.slx
+*.mdl
+*.mex*
+*.p
+*.mexw64
+*.mexw32
+*.mexglx
+*.mexa64
+*.mexmaci64
+*.mexmaca64
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Output directories
+output/
+plots/
+results/
+figures/
+images/
+plots_hexagonal/
+plots_ternary/
+
+# Log files
+*.log
+*.out
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Large data files (uncomment if needed)
+# *.csv
+# *.xlsx
+# *.xls
+
+# Compiled files
+*.o
+*.so
+*.dll
+*.dylib
+
+# Package files
+*.zip
+*.rar
+*.7z
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache (if any Python scripts are added)
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Node modules (if any web interfaces are added)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

@@ -158,7 +158,14 @@ GitHub Repository. Retrieved from https://github.com/vidkudermarusic/PROGRAM-TOO
 
 ## License
 
-[License Information]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**MIT License Summary:**
+- ✅ **Free to use** - Commercial and non-commercial use allowed
+- ✅ **Free to modify** - Can adapt and change the code
+- ✅ **Free to distribute** - Can share and redistribute
+- ✅ **Attribution required** - Must include original copyright notice
+- ✅ **No warranty** - Software provided "as is"
 
 ## Contributing
 
