@@ -240,7 +240,7 @@ create_joint_ternary_diagram(
 - **Version**: 1.0.0
 - **Author**: Vid Kuder Marušič
 - **Email**: vidkm30@gmail.com
-- **Repository**: PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
+- **Repository**: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
 - **Last Updated**: 2025
 - **Compatibility**: R 3.6.0 or later
 - **Dependencies**: See package list above

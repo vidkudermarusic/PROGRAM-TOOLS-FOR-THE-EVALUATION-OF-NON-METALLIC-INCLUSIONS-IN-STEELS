@@ -153,7 +153,7 @@ If you use this toolkit in your research, please cite:
 
 ```
 Kuder Marušič, V. (2025). PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS. 
-GitHub Repository. Retrieved from [Repository URL]
+GitHub Repository. Retrieved from https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
 ```
 
 ## License
@@ -169,7 +169,7 @@ GitHub Repository. Retrieved from [Repository URL]
 For questions and support, please contact:
 - **Author**: Vid Kuder Marušič
 - **Email**: vidkm30@gmail.com
-- **Repository**: PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
+- **Repository**: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
 
 ## Changelog
 

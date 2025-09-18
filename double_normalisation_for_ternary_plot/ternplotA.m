@@ -60,7 +60,7 @@
 %   - 2025 (VKM) Enhanced documentation and integration
 % CURRENT AUTHOR: Vid Kuder Marušič
 % EMAIL: vidkm30@gmail.com
-% REPOSITORY: PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
+% REPOSITORY: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
 %
 % PACKAGE: Carl Sandrock's ternplot package
 % REPOSITORY: https://github.com/alchemyst/ternplot

@@ -219,7 +219,7 @@ If you need different column names:
 - **Version**: 1.0.0
 - **Author**: Vid Kuder Marušič
 - **Email**: vidkm30@gmail.com
-- **Repository**: PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
+- **Repository**: https://github.com/vidkudermarusic/PROGRAM-TOOLS-FOR-THE-EVALUATION-OF-NON-METALLIC-INCLUSIONS-IN-STEELS
 - **Last Updated**: 2025
 
 ## Support
